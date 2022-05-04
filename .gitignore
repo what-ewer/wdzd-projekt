@@ -1,0 +1,6 @@
+# Viskit repo
+/viskit
+
+# IDE dirs
+/.vscode
+/.ipynb_checkpoints
